@@ -1,5 +1,11 @@
 '''
-Written by Jinsung Yoon
+Written by Mohamed Gunady
+Date: Dec 2018 (Revised Dec 2nd 2019)
+scGAIN: Single Cell RNA-seq Data Imputation using Generative Adversarial Networks
+Paper Link: https://www.biorxiv.org/content/10.1101/837302v1
+Contact: mgunady@cs.umd.edu
+-------------
+Based on code written by Jinsung Yoon
 Date: Jul 9th 2018 (Revised Oct 19th 2018)
 Generative Adversarial Imputation Networks (GAIN) Implementation on MNIST
 Reference: J. Yoon, J. Jordon, M. van der Schaar, "GAIN: Missing Data Imputation using Generative Adversarial Nets," ICML, 2018.
