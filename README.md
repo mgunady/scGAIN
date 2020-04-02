@@ -3,7 +3,7 @@ scGAIN: Single Cell RNA-seq Data Imputation using Generative Adversarial Network
 
 Code repository for paper: https://www.biorxiv.org/content/10.1101/837302v1
 
-Contents:
+### Contents:
 
 **gainMain_PBMC.py**: Code to train and evaluate scGAIN model on PBMC dataset  
 **gainMain_simSplatter.py**: Code to train and evaluate scGAIN model on simulated dataset (see next file)  
